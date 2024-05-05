@@ -1,6 +1,6 @@
 <h1>Basketball Scoreboard</h1>
 
-You can see this project deployed <a href="https://659ae6dd7ca9a5759b87be92--friendly-pudding-8a46a2.netlify.app">here</a>.
+You can see this project deployed <a href="https://friendly-pudding-8a46a2.netlify.app">here</a>.
 
 <h3>Summary: </h3>
 
